@@ -1,10 +1,7 @@
 
 
 <div align="center">
-  <br />
-<!--   <img src="public/readme/hero.png" alt="Project Banner" /> -->
-  <br />
-
+ 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
